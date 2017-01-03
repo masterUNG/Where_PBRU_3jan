@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Where PBRU</string>
+    <string name="Search">ค้นหา</string>
+    <string name="Build">โปรดระบุหมายเลขห้อง</string>
+    <string name="Name">ชื่อ</string>
+    <string name="Login">ล็อกอิน</string>
+    <string name="Admin">สำหรับเจ้าหน้าที่</string>
+    <string name="Register">สมัครสมาชิก</string>
+    <string name="SingUp">ลงทะเบียน</string>
+    <string name="Build1">เพิ่มข้อมูลอาคาร</string>
+    <string name="Shop">เพิ่มข้อมูลร้านค้า</string>
+    <string name="Dorm">เพิ่มข้อมูลหอพัก</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="pbru">ระบบสืบค้นและระบุตำแหน่ง</string>
+    <string name="username">ชื่อผู้ใช้</string>
+    <string name="Password">รหัสผ่าน</string>
+    <string name="user_id">รหัสผู้ใช้</string>
+    <string name="user_name">ชื่อ-นามสกุล</string>
+    <string name="Email">อีเมล</string>
+    <string name="phone">เบอร์โทร</string>
+    <string name="User">ชื่อผู้ใช้</string>
+    <string name="title_haveSpace">มีช่องว่าง</string>
+    <string name="message_haveSpace">กรุณากรอกทุกช่อง</string>
+    <string name="title_userFalse">User ผิด</string>
+    <string name="message_userFalse">ไม่มีข้อมูล</string>
+    <string name="title_passwordFalse">password ผิด</string>
+    <string name="message_passwordFalse">กรอกพาสเวิดใหม่</string>
+    <string name="title_activity_service">Map</string>
+    <string name="title_activity_add_edit">Map</string>
+    <string name="user">ชื่อผู้ใช้</string>
+
+
+</resources>
